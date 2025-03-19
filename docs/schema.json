@@ -15761,6 +15761,9 @@
             },
             "client_subnet": {
               "type": "string"
+            },
+            "match_only": {
+              "type": "boolean"
             }
           },
           "required": [
